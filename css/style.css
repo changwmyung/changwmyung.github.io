@@ -9,7 +9,7 @@
 /* Basic */
 
 	body {
-		background: #fff;
+		background: #666;
 	}
 
 		body.is-loading *, body.is-loading *:before, body.is-loading *:after {
@@ -26,7 +26,7 @@
 		}
 
 	body, input, select, textarea {
-		color: #006;
+		color: #666;
 
 		font-size: 13pt;
 		font-family: "Open Sans", sans-serif;
